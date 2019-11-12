@@ -58,7 +58,7 @@ speciesHash = {
     }
   }
 }
-puts speciesHash
+speciesHash
 end
 # PORTION_1 = {
 #   label: "Kingdom",
