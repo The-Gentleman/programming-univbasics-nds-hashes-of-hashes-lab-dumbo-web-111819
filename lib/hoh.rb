@@ -50,7 +50,7 @@ speciesHash = {
            :sub_category => {
              :label => 'Genus',
               :sub_category => {
-                :label => 'Speciese'
+                :label => 'Species'
               }
            }
          }
